@@ -1,0 +1,1 @@
+# Gaucamole Docker setup

@@ -1,0 +1,9 @@
+version: "3"
+services:
+  guacamole:
+    image: abesnier/guacamole
+    container_name: guacamole
+    ports:
+      - "8080:8080"
+    volumes:
+      - "/home/mike/Code/guacamole/config:/config"
