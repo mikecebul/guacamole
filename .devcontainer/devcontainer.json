@@ -1,0 +1,7 @@
+{
+  "name": "guacamole",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "guacamole",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose"
+}
